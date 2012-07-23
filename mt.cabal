@@ -2,7 +2,7 @@
 -- see http://haskell.org/cabal/users-guide/
 
 name:                mt
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            Prints a multiplication table.
 description:         Prints a multiplication table.
 license:             GPL-3
